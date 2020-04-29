@@ -154,7 +154,6 @@
 { "ioprio_get", 290 },
 { "ioprio_set", 289 },
 { "ipc", 117 },
-{ "kcmp", 349 },
 { "kexec_load", 283 },
 { "keyctl", 288 },
 { "kill", 37 },

@@ -122,7 +122,6 @@
 { "io_setup", 243 },
 { "io_submit", 246 },
 { "ipc", 117 },
-{ "kcmp", 378 },
 { "kexec_load", 347 },
 { "keyctl", 311 },
 { "kill", 37 },

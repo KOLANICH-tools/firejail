@@ -127,7 +127,6 @@
 { "iopl", 172 },
 { "ioprio_get", 252 },
 { "ioprio_set", 251 },
-{ "kcmp", 312 },
 { "kexec_file_load", 320 },
 { "kexec_load", 246 },
 { "keyctl", 250 },

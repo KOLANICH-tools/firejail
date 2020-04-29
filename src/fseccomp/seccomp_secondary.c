@@ -75,7 +75,6 @@ void seccomp_secondary_32(const char *fname) {
 		BLACKLIST(253), // lookup_dcookie
 		BLACKLIST(336), // perf_event_open
 		BLACKLIST(338), // fanotify_init
-		BLACKLIST(349), // kcmp
 		BLACKLIST(286), // add_key
 		BLACKLIST(287), // request_key
 		BLACKLIST(288), // keyctl

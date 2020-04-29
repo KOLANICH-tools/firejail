@@ -2414,8 +2414,6 @@ $ firejail --seccomp.print=browser
 .br
  0038: 15 10 00 0000012c   jeq fanotify_init 0049 (false 0039)
 .br
- 0039: 15 0f 00 00000138   jeq kcmp 0049 (false 003a)
-.br
  003a: 15 0e 00 000000f8   jeq add_key 0049 (false 003b)
 .br
  003b: 15 0d 00 000000f9   jeq request_key 0049 (false 003c)
